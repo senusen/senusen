@@ -5,6 +5,8 @@ I’m **Senusen**, a self-taught entry-level DevOps enthusiast and JavaScript de
 While I’m familiar with several programming languages, my main focus is **JavaScript**.  
 I’m currently working full-stack on [**Dino**](https://discord.com/oauth2/authorize?client_id=1364855085351436349), a multi-purpose Discord bot that I personally develop and maintain.
 
+Most of my Repo and Projects are private.
+
 ---
 
 ## 📬 Contact
